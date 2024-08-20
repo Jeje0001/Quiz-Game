@@ -7,6 +7,7 @@ Run the script.
 You will be asked if you want to play the quiz game. Enter yes to start or no to quit.
 Answer the questions that follow. Your score will be calculated based on your correct answers.
 Questions
+
 The quiz includes the following questions:
 
 What does the CPU stand for?
